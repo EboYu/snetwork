@@ -97,8 +97,8 @@ public class GraphOperator {
             ReadWriteExcel.insert1Graph2Excel(graph1,wb,index1);
             index1++;
         }*/
-        ReadWriteExcel.writeExcel("BULLISH99_101.xlsx",wb);
-        ReadWriteExcel.writeExcel("BULLISH99_SUM1.xlsx",wb1);
+        ReadWriteExcel.writeExcel("BULLISH99_100.xlsx",wb);
+        ReadWriteExcel.writeExcel("BULLISH99_SUM.xlsx",wb1);
         return;
     }
 }
